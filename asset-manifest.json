@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/favorite-planets/static/css/main.afd7172b.chunk.css",
+    "main.js": "/favorite-planets/static/js/main.285cc845.chunk.js",
+    "main.js.map": "/favorite-planets/static/js/main.285cc845.chunk.js.map",
+    "runtime-main.js": "/favorite-planets/static/js/runtime-main.2f63ebb6.js",
+    "runtime-main.js.map": "/favorite-planets/static/js/runtime-main.2f63ebb6.js.map",
+    "static/css/2.150d169a.chunk.css": "/favorite-planets/static/css/2.150d169a.chunk.css",
+    "static/js/2.bd63be1d.chunk.js": "/favorite-planets/static/js/2.bd63be1d.chunk.js",
+    "static/js/2.bd63be1d.chunk.js.map": "/favorite-planets/static/js/2.bd63be1d.chunk.js.map",
+    "index.html": "/favorite-planets/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/favorite-planets/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.afd7172b.chunk.css.map": "/favorite-planets/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.bd63be1d.chunk.js.LICENSE.txt": "/favorite-planets/static/js/2.bd63be1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f63ebb6.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.bd63be1d.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.285cc845.chunk.js"
+  ]
+}
